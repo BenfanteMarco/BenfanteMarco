@@ -1,17 +1,17 @@
-# Benvenuto sul mio profilo GitHub! 👻
+# Welcome! 👻
 
 <div>
   <p>
-    Sono Marco, un Full Stack Web Developer e questo è il mio profilo GitHub 👨‍💻
+    I'm Marco, a Full Stack Web-Developer and this is my GitHub profile 👨‍💻
   </p>
 </div>
 
-Qui sotto in evidenza troverete:
+Below you will find:
 
-- Alcuni dei progetti che mi sono piaciuti di più. 🚧
-- Tutti i linguaggi Frontend e Backend che conosco (con Framework e Librerie annesse). 👾
-- Ed infine il mio profilo Linkedin. ✔️
+- Some of the projects I liked the most. 🚧
+- All the Frontend and Backend languages ​​I know (with associated Frameworks and Libraries). 👾
+- And finally my Linkedin profile. ✔️
 
-## Le mie skills
+## My skills
 
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=sass)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=bootstrap)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=javascript)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vite)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=mysql,php,laravel,git)](https://skills.thijs.gg)
